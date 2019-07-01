@@ -55,7 +55,7 @@ body,html
 {
   clip-path:polygon(0% 0%, 100% 0%, 100% 50%, 0% 100%,0% 50%);
   background:#800020;
-  background-image:linear-gradient(to right, rgba(128, 0, 32,1), rgba(250, 47, 98,0.5)),url("rocket wide.jpg");
+  background-image:linear-gradient(to right, rgba(128, 0, 32,1), rgba(250, 47, 98,0.5)),url("rocket_wide.jpg");
   background-size: cover;
   background-position: 0% 60%;
   max-width:100%;
