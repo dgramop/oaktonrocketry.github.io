@@ -30,14 +30,20 @@ body,html
 }
 .nav > .btns > .btn
 {
+  transition:background-color 0.3s;
   padding: 2rem;
   background-color: #010101;
   cursor:pointer;
   display: inline-block;
 }
-.nav > .btns >.btn.connect:hover
+.nav > .btns >.btn.burg:hover
 {
-  background-color:#015e07;
+  background-color:#800020;
+}
+.nav > .btns >.btn.gold:hover
+{
+  background-color:gold;
+  color:black;
 }
 .nav > .btns >.btn:hover
 {
