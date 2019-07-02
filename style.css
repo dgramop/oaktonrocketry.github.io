@@ -104,13 +104,14 @@ h1
 }
 .card
 {
+  height:auto;
   display: inline-block;
   width:30%;
   background-color: #393232;
-  min-height: 50%;
-  height: 10rem;
   border-radius: 0.25rem;
   margin:1rem;
+  padding:1rem;
+  overflow:visible;
 }
 footer
 {
